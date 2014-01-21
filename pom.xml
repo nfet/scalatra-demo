@@ -12,7 +12,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <scalatra.version>2.0.0.M3</scalatra.version>
+        <scalatra.version>2.0.0</scalatra.version>
         <scalatra-artifact.version>2.8.1</scalatra-artifact.version>
         <scala-library.version>2.8.1</scala-library.version>
     </properties>
